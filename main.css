@@ -1,0 +1,10 @@
+.box{
+    border-radius: 50%;
+    background-color: tomato;
+    position: absolute;
+}
+.view{
+    border-radius: 50%;
+    position: absolute;
+    border:  1px dashed #ddd;
+}
